@@ -1,8 +1,6 @@
 # biz.lcdservices.updatefinancialtype
 
-![Screenshot](/images/screenshot.png)
-
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
+This extension will update the financial type on the contribution record to reflect the most recent payment's financial type.
 
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
@@ -34,11 +32,3 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 git clone https://github.com/FIXME/biz.lcdservices.updatefinancialtype.git
 cv en updatefinancialtype
 ```
-
-## Usage
-
-(* FIXME: Where would a new user navigate to get started? What changes would they see? *)
-
-## Known Issues
-
-(* FIXME *)
